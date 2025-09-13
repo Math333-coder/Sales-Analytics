@@ -16,3 +16,7 @@ The dataset comprises sales transactions from a retail store, including fields l
    ```bash
    git clone https://github.com/Math333-coder/Sales-Analytics.git
    cd Sales-Analytics
+
+## Contact Information
+
+For inquiries, reach out to [Mathavan](mathavannavy@gmail.com).
