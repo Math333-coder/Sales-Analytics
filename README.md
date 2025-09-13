@@ -6,8 +6,7 @@ This project analyzes sales data to uncover trends, identify top-performing prod
 ## Technologies Used
 - Power BI
 - Excel
-- Python
-- Pandas
+- Sql
 
 ## Data Description
 The dataset comprises sales transactions from a retail store, including fields like Product ID, Quantity Sold, Sale Date, and Revenue. Data cleaning involved handling missing values and correcting inconsistencies.
