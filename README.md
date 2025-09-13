@@ -19,4 +19,4 @@ The dataset comprises sales transactions from a retail store, including fields l
 
 ## Contact Information
 
-For inquiries, reach out to [Mathavan](mathavannavy@gmail.com).
+For inquiries, reach out to [Mathavan](mailto:mathavannavy@gmail.com).
