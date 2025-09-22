@@ -14,6 +14,8 @@ The dataset comprises sales transactions from a retail store, including fields l
 ## About Northwind 
 <img width="1504" height="1210" alt="northwind" src="https://github.com/user-attachments/assets/f5a040b4-de07-4b0a-a1ed-a8eeb40b2d3a" />
 
+
+
 ## Sales
 <img width="1492" height="862" alt="sales" src="https://github.com/user-attachments/assets/0bed5e09-11cb-4a8e-9fc8-cd012ac419b8" />
 
